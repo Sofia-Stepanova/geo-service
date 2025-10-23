@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.locale.LocalizationServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 s - in ru.netology.locale.LocalizationServiceImplTest
+ru.netology.locale.LocalizationServiceImplTest.try_locale_return_correct_value_ru  Time elapsed: 0.011 s
+ru.netology.locale.LocalizationServiceImplTest.try_locale_return_correct_value_eng  Time elapsed: 0.006 s

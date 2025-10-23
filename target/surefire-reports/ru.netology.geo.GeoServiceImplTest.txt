@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.geo.GeoServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.263 s - in ru.netology.geo.GeoServiceImplTest
+ru.netology.geo.GeoServiceImplTest.test_getLocation_ru  Time elapsed: 0.158 s
+ru.netology.geo.GeoServiceImplTest.test_getLocation_eng  Time elapsed: 0.009 s
