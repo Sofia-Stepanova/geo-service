@@ -12,12 +12,13 @@ public class MessageSenderImpl implements MessageSender {
     public static final String IP_ADDRESS_HEADER = "x-real-ip";
     private final GeoService geoService;
 
-    private final LocalizationService localizationService;
+    public final LocalizationService localizationService;
 
     public MessageSenderImpl(GeoService geoService, LocalizationService localizationService) {
         this.geoService = geoService;
         this.localizationService = localizationService;
     }
+
 
     public String send(Map<String, String> headers) {
         String ipAddress = String.valueOf(headers.get(IP_ADDRESS_HEADER));

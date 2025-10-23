@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: ru.netology.sender.MessageSenderImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.698 s - in ru.netology.sender.MessageSenderImplTest
+ru.netology.sender.MessageSenderImplTest.test_send_message_inRussian  Time elapsed: 1.626 s
